@@ -15,6 +15,8 @@ def main():
 
     clock = pygame.time.Clock()
 
+    print("TEST")
+
     # SPACE
     spaceShip = SpaceShip.SpaceShip()
 
